@@ -1,0 +1,64 @@
+apply plugin: 'groovy'
+apply plugin: 'maven'
+apply plugin: "com.gradle.plugin-publish"
+
+
+dependencies {
+    implementation gradleApi() //gradle sdk
+    implementation localGroovy() //groovy sdk
+
+
+    implementation 'org.aspectj:aspectjtools:1.8.6'
+    implementation 'org.aspectj:aspectjrt:1.8.6'
+    implementation "com.android.tools.build:gradle:3.2.1"
+    implementation 'org.javassist:javassist:3.20.0-GA'
+
+}
+
+repositories {
+    jcenter()
+}
+
+buildscript {
+    repositories {
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+    }
+    dependencies {
+        classpath "com.gradle.publish:plugin-publish-plugin:0.12.0"
+//        classpath "java-gradle-plugin:1.2"
+    }
+}
+
+// Unless overridden in the pluginBundle config DSL, the project version will
+// be used as your plugin version when publishing
+version = "1.0.0"  //配置插件的版本号
+group = "com.charles.plugin.MyAspectPlugin"  //插件的群组，插件的classpath会用到
+
+pluginBundle {
+    website = 'https://github.com/15189611/runtime'
+    vcsUrl = 'https://github.com/15189611/runtime'
+    description = 'a aspect plugin '   //插件描述
+    tags = ['Aspect', 'javassist']  //插件的tag。可以通过这个在插件门户上搜索
+
+    plugins {
+        greetingsPlugin {
+            // id is captured from java-gradle-plugin configuration
+            id = 'com.charles.plugin'  //插件的id，到时候apply的插件id
+            displayName = 'Charles Gradle Aspect plugin'
+        }
+    }
+}
+
+
+
+//本地上传用
+uploadArchives {
+    repositories.mavenDeployer {
+        repository(url: uri('../repo')) //仓库的路径，此处是项目根目录下的 repo 的文件夹
+        pom.groupId = 'com.charles.plugin'  //groupId ，自行定义，一般是包名
+        pom.artifactId = 'MyAspectPlugin' //artifactId ，自行定义
+        pom.version = '1.0.0' //version 版本号
+    }
+}

@@ -1,0 +1,7 @@
+include ':app'
+include ':annotations'
+include ':runtime'
+include ':plugin'
+rootProject.name = "My Application"
+include ':skeleton'
+include ':duskeleton'

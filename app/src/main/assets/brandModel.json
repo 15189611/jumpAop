@@ -1,0 +1,1433 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "itemList": [
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 94,
+        "spuId": 94,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/FssRojKcEH7c8LybIbcpEdaOjX7z",
+        "images": [
+          "https://du.hupucdn.com/FssRojKcEH7c8LybIbcpEdaOjX7z"
+        ],
+        "title": "adidas UltraBoost 3.0 Collegiate Navy 学院蓝",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 2237,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "BA8843",
+        "priceType": 1,
+        "goodsType": 0
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 102,
+        "spuId": 102,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/FidDfiSAzSqwj6I29ANKHAsIPdAc",
+        "images": [
+          "https://du.hupucdn.com/FidDfiSAzSqwj6I29ANKHAsIPdAc"
+        ],
+        "title": "adidas Ultra Boost Core Black White",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 39,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "BB3909",
+        "priceType": 1,
+        "goodsType": 0
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 33559,
+        "spuId": 33559,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/FitoV1tikFJeqmrkCbcaPACu8qHx",
+        "images": [
+          "https://du.hupucdn.com/FitoV1tikFJeqmrkCbcaPACu8qHx"
+        ],
+        "title": "adidas  拖鞋 沙滩拖鞋 凉拖 黑色",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 0,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "S77991",
+        "priceType": 1,
+        "goodsType": 0
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 59108,
+        "spuId": 59108,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/FtlcErS-iYAhZN8uSGCUUyFRw9vh",
+        "images": [
+          "https://du.hupucdn.com/FtlcErS-iYAhZN8uSGCUUyFRw9vh"
+        ],
+        "title": "adidas team 团队篮球鞋 黑白",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 0,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "C75153",
+        "priceType": 1,
+        "goodsType": 0
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 9601,
+        "spuId": 9601,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/d70651f62169441d7f188310d6745843.png",
+        "images": [
+          "https://du.hupucdn.com/d70651f62169441d7f188310d6745843.png"
+        ],
+        "title": "adidas UltraBOOST 浅猩红",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 0,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "BB6169",
+        "priceType": 1,
+        "goodsType": 0
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 542,
+        "spuId": 542,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/451cd6f231622880b6e6329d32ef1d80.png",
+        "images": [
+          "https://du.hupucdn.com/451cd6f231622880b6e6329d32ef1d80.png"
+        ],
+        "title": "adidas Ultra Boost Solar Slime 荧光绿",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 55,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "AQ4002",
+        "priceType": 1,
+        "goodsType": 0
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 1000057,
+        "spuId": 1000057,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://cdn.poizon.com/node-common/UVElRTYlODglQUElRTUlOUIlQkUyMDE5MDUyMjExMzg1MzE1ODE1NzYxMDE0NzE=.png",
+        "images": [
+          "https://cdn.poizon.com/node-common/UVElRTYlODglQUElRTUlOUIlQkUyMDE5MDUyMjExMzg1MzE1ODE1NzYxMDE0NzE=.png"
+        ],
+        "title": "GUCCI 美妆类  ",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 0,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte25670byte_c9ca8b5347750651bebbf84dd7d12d01_w150h150.png",
+        "articleNumber": "meizhuang",
+        "priceType": 1,
+        "goodsType": 100
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 84489,
+        "spuId": 84489,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://cdn.poizon.com/node-common/MWIyYjhjODhiYTdkNjNlMWRmMzc1MTBiNWU2MTk2MmExNTg1MTA3NDA5Nzky.jpeg",
+        "images": [
+          "https://cdn.poizon.com/node-common/MWIyYjhjODhiYTdkNjNlMWRmMzc1MTBiNWU2MTk2MmExNTg1MTA3NDA5Nzky.jpeg"
+        ],
+        "title": "adidas   鞋类目 分数尺码 供应链专用",
+        "subTitle": "",
+        "spuMinSalePrice": 99900,
+        "minSalePrice": 99900,
+        "soldNum": 51,
+        "price": 99900,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte24108byte_fc70f4c88211e100fe6c29a6f4a46a96_w150h150.png",
+        "articleNumber": "LQ7001-01",
+        "priceType": 1,
+        "goodsType": 0
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 8906,
+        "spuId": 8906,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/2e7306597acb0cbd1fcc444abf247196.png",
+        "images": [
+          "https://du.hupucdn.com/2e7306597acb0cbd1fcc444abf247196.png"
+        ],
+        "title": "adidas Ultra Boost 4.0 Running White 纯白",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 0,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "BB6168",
+        "priceType": 1,
+        "goodsType": 0
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 63174,
+        "spuId": 63174,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/Fp8wzQJeTiTbkQc0uFBWTw3Rq97I",
+        "images": [
+          "https://du.hupucdn.com/Fp8wzQJeTiTbkQc0uFBWTw3Rq97I"
+        ],
+        "title": "adidas Dame 6 黑红阴阳",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 0,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "EF9875",
+        "priceType": 1,
+        "goodsType": 0
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 51458,
+        "spuId": 51458,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/Fmi6E2kEb8JMBTeN7E_JbTIY4KDc",
+        "images": [
+          "https://du.hupucdn.com/Fmi6E2kEb8JMBTeN7E_JbTIY4KDc"
+        ],
+        "title": "adidas 运动休闲梭织棒球服夹克外套 藏青色",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 0,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "DX8408",
+        "priceType": 1,
+        "goodsType": 1
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 8921,
+        "spuId": 8921,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/fc719c332b5a1d315ecf5f97c82b2c85.png",
+        "images": [
+          "https://du.hupucdn.com/fc719c332b5a1d315ecf5f97c82b2c85.png"
+        ],
+        "title": "adidas Ultra Boost 4.0 Core Black 黑白",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 0,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "BB6166",
+        "priceType": 1,
+        "goodsType": 0
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 24335,
+        "spuId": 24335,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/Fsa5SQ3gKxKA9Y6bs4gXt1VFey2c",
+        "images": [
+          "https://du.hupucdn.com/Fsa5SQ3gKxKA9Y6bs4gXt1VFey2c"
+        ],
+        "title": "adidas Superstar 贝壳头",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 0,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "CM8414",
+        "priceType": 1,
+        "goodsType": 0
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 37970,
+        "spuId": 37970,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/Fpq8MRV2rEbAzJ0S4UqYeBjaCe0h",
+        "images": [
+          "https://du.hupucdn.com/Fpq8MRV2rEbAzJ0S4UqYeBjaCe0h"
+        ],
+        "title": "adidas Ultraboost 19 纯白",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 0,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "G54008",
+        "priceType": 1,
+        "goodsType": 0
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 49620,
+        "spuId": 49620,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/FhAshKvZ69xLvXHyb9vafgcSSyIR",
+        "images": [
+          "https://du.hupucdn.com/FhAshKvZ69xLvXHyb9vafgcSSyIR"
+        ],
+        "title": "adidas 经典logo连帽套头卫衣 男款 黑色",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 0,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "DQ1461",
+        "priceType": 1,
+        "goodsType": 1
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 37966,
+        "spuId": 37966,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/Fkq0O_AUsIwSmLfZ6L5I-UqpFJAF",
+        "images": [
+          "https://du.hupucdn.com/Fkq0O_AUsIwSmLfZ6L5I-UqpFJAF"
+        ],
+        "title": "adidas Ultraboost 19 黑橙",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 0,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "G27519",
+        "priceType": 1,
+        "goodsType": 0
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 50195,
+        "spuId": 50195,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/FtrX7G5_HW39-EBj0q6wzwA_EhpK",
+        "images": [
+          "https://du.hupucdn.com/FtrX7G5_HW39-EBj0q6wzwA_EhpK"
+        ],
+        "title": "adidas Harden Vol. 4 Gca 哈登 黑银",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 0,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "EF1204",
+        "priceType": 1,
+        "goodsType": 0
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 41501,
+        "spuId": 41501,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/FuPR781D4vzEnyspJm5t2KAmW5oq",
+        "images": [
+          "https://du.hupucdn.com/FuPR781D4vzEnyspJm5t2KAmW5oq"
+        ],
+        "title": "adidas Ultra Boost 4.0 Non Dye Cloud White 浅灰色",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 0,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "F36155",
+        "priceType": 1,
+        "goodsType": 0
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 38123,
+        "spuId": 38123,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/Fk8_FU6c7BjwsmUDdEAoZ-76id_6",
+        "images": [
+          "https://du.hupucdn.com/Fk8_FU6c7BjwsmUDdEAoZ-76id_6"
+        ],
+        "title": "Adidas Ultraboost CLIMA U 黑白",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 0,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "EG8076",
+        "priceType": 1,
+        "goodsType": 0
+      },
+      {
+        "page": 0,
+        "dataType": 0,
+        "productId": 14650,
+        "spuId": 14650,
+        "propertyValueId": 0,
+        "propertyValue": "",
+        "logoUrl": "https://du.hupucdn.com/188284e70062f9bce29591f33f07a94e.png",
+        "images": [
+          "https://du.hupucdn.com/188284e70062f9bce29591f33f07a94e.png"
+        ],
+        "title": "adidas Yung-1 Cloud White 白",
+        "subTitle": "",
+        "spuMinSalePrice": 0,
+        "minSalePrice": 0,
+        "soldNum": 0,
+        "price": 0,
+        "brandLogoUrl": "https://du.hupucdn.com/news_byte26564byte_a768870ae48f1a216dd756c2206c34b1_w150h150.png",
+        "articleNumber": "B37616",
+        "priceType": 1,
+        "goodsType": 0
+      }
+    ],
+    "facet": [
+      {
+        "key": "series_ids",
+        "items": [
+          {
+            "value": "60",
+            "count": 703,
+            "name": "Ultra Boost"
+          },
+          {
+            "value": "323",
+            "count": 375,
+            "name": "adidas服饰"
+          },
+          {
+            "value": "972",
+            "count": 172,
+            "name": "adidas其他"
+          },
+          {
+            "value": "61",
+            "count": 118,
+            "name": "Pure Boost"
+          },
+          {
+            "value": "305",
+            "count": 102,
+            "name": "NMD"
+          },
+          {
+            "value": "68",
+            "count": 80,
+            "name": "Tubular"
+          },
+          {
+            "value": "64",
+            "count": 67,
+            "name": "EQT"
+          },
+          {
+            "value": "306",
+            "count": 54,
+            "name": "StanSmith"
+          },
+          {
+            "value": "220",
+            "count": 51,
+            "name": "凉拖鞋"
+          },
+          {
+            "value": "986",
+            "count": 47,
+            "name": "Predator"
+          },
+          {
+            "value": "59",
+            "count": 39,
+            "name": "Harden"
+          },
+          {
+            "value": "58",
+            "count": 36,
+            "name": "Crazy Explosive"
+          },
+          {
+            "value": "54",
+            "count": 32,
+            "name": "D lillard"
+          },
+          {
+            "value": "55",
+            "count": 32,
+            "name": "adidas T-mac"
+          },
+          {
+            "value": "734",
+            "count": 30,
+            "name": "Adizero"
+          },
+          {
+            "value": "308",
+            "count": 29,
+            "name": "Crazy BYW"
+          },
+          {
+            "value": "1070",
+            "count": 25,
+            "name": "adidas箱包"
+          },
+          {
+            "value": "329",
+            "count": 25,
+            "name": "4D"
+          },
+          {
+            "value": "304",
+            "count": 24,
+            "name": "Superstar"
+          },
+          {
+            "value": "468",
+            "count": 20,
+            "name": "Terrex Free Hiker"
+          },
+          {
+            "value": "221",
+            "count": 19,
+            "name": "球衣"
+          },
+          {
+            "value": "307",
+            "count": 18,
+            "name": "adidas Iniki"
+          },
+          {
+            "value": "186",
+            "count": 17,
+            "name": "Harden vol.1"
+          },
+          {
+            "value": "495",
+            "count": 17,
+            "name": "DM1"
+          },
+          {
+            "value": "57",
+            "count": 17,
+            "name": "crazy light boost"
+          },
+          {
+            "value": "290",
+            "count": 16,
+            "name": "Pharrell"
+          },
+          {
+            "value": "301",
+            "count": 16,
+            "name": "Raf Simons"
+          },
+          {
+            "value": "841",
+            "count": 15,
+            "name": "Duramo 9"
+          },
+          {
+            "value": "782",
+            "count": 14,
+            "name": "Harden VOL. 4"
+          },
+          {
+            "value": "987",
+            "count": 14,
+            "name": "Nemeziz"
+          },
+          {
+            "value": "168",
+            "count": 13,
+            "name": "D lillard 4"
+          },
+          {
+            "value": "188",
+            "count": 13,
+            "name": "Harden B/E"
+          },
+          {
+            "value": "214",
+            "count": 13,
+            "name": "Harden Vol.2"
+          },
+          {
+            "value": "287",
+            "count": 13,
+            "name": "Harden Vol.3"
+          },
+          {
+            "value": "56",
+            "count": 13,
+            "name": "adidas D rose"
+          },
+          {
+            "value": "768",
+            "count": 13,
+            "name": "SenseBounce+"
+          },
+          {
+            "value": "965",
+            "count": 13,
+            "name": "Solecourt Parley"
+          },
+          {
+            "value": "355",
+            "count": 12,
+            "name": "adidas配件"
+          },
+          {
+            "value": "709",
+            "count": 12,
+            "name": "CLIMAWARM"
+          },
+          {
+            "value": "993",
+            "count": 12,
+            "name": "Copa"
+          },
+          {
+            "value": "243",
+            "count": 11,
+            "name": "D Rose 9"
+          },
+          {
+            "value": "317",
+            "count": 11,
+            "name": "Yung-1"
+          },
+          {
+            "value": "762",
+            "count": 11,
+            "name": "ASTRARUN"
+          },
+          {
+            "value": "844",
+            "count": 11,
+            "name": "PRO Model"
+          },
+          {
+            "value": "907",
+            "count": 11,
+            "name": "Edgebounce"
+          },
+          {
+            "value": "167",
+            "count": 10,
+            "name": "D lillard 3"
+          },
+          {
+            "value": "343",
+            "count": 10,
+            "name": "Yung-96"
+          },
+          {
+            "value": "363",
+            "count": 10,
+            "name": "Speedfactory"
+          },
+          {
+            "value": "433",
+            "count": 10,
+            "name": "Ozweego"
+          },
+          {
+            "value": "821",
+            "count": 10,
+            "name": "Terrex Two"
+          },
+          {
+            "value": "898",
+            "count": 10,
+            "name": "nova run"
+          },
+          {
+            "value": "302",
+            "count": 9,
+            "name": "Falcon"
+          },
+          {
+            "value": "430",
+            "count": 9,
+            "name": "Kamanda"
+          },
+          {
+            "value": "901",
+            "count": 9,
+            "name": "Crossknit 3.0"
+          },
+          {
+            "value": "185",
+            "count": 8,
+            "name": "D Rose 8"
+          },
+          {
+            "value": "1018",
+            "count": 7,
+            "name": "Quadcube"
+          },
+          {
+            "value": "187",
+            "count": 7,
+            "name": "Harden LS"
+          },
+          {
+            "value": "879",
+            "count": 7,
+            "name": "Swift run"
+          },
+          {
+            "value": "232",
+            "count": 6,
+            "name": "Bape"
+          },
+          {
+            "value": "350",
+            "count": 6,
+            "name": "D lillard 5"
+          },
+          {
+            "value": "366",
+            "count": 5,
+            "name": "Deerupt"
+          },
+          {
+            "value": "774",
+            "count": 5,
+            "name": "ZoneBoost"
+          },
+          {
+            "value": "900",
+            "count": 5,
+            "name": "Cloudfoam"
+          },
+          {
+            "value": "902",
+            "count": 5,
+            "name": "Pro Adversary"
+          },
+          {
+            "value": "988",
+            "count": 5,
+            "name": "Terrex AX3 GTX"
+          },
+          {
+            "value": "967",
+            "count": 4,
+            "name": "Solar Ride"
+          },
+          {
+            "value": "974",
+            "count": 4,
+            "name": "Tour360"
+          },
+          {
+            "value": "1083",
+            "count": 3,
+            "name": "D lillard 6"
+          },
+          {
+            "value": "166",
+            "count": 3,
+            "name": "D lillard 2"
+          },
+          {
+            "value": "184",
+            "count": 3,
+            "name": "adidas D Rose 7"
+          },
+          {
+            "value": "344",
+            "count": 3,
+            "name": "PROPHERE"
+          },
+          {
+            "value": "449",
+            "count": 3,
+            "name": "Temper Run"
+          },
+          {
+            "value": "451",
+            "count": 3,
+            "name": "Samba"
+          },
+          {
+            "value": "793",
+            "count": 3,
+            "name": "Pro Bounce 2018"
+          },
+          {
+            "value": "953",
+            "count": 3,
+            "name": "Solar Blaze"
+          },
+          {
+            "value": "171",
+            "count": 2,
+            "name": "adidas Tmac 3"
+          },
+          {
+            "value": "351",
+            "count": 2,
+            "name": "Nite Jogger"
+          },
+          {
+            "value": "733",
+            "count": 2,
+            "name": "mad bounce"
+          },
+          {
+            "value": "840",
+            "count": 2,
+            "name": "galaxy"
+          },
+          {
+            "value": "912",
+            "count": 2,
+            "name": "Purebounce+"
+          },
+          {
+            "value": "164",
+            "count": 1,
+            "name": "Yeezy Powerphase"
+          },
+          {
+            "value": "165",
+            "count": 1,
+            "name": "D lillard 1"
+          },
+          {
+            "value": "169",
+            "count": 1,
+            "name": "adidas Tmac 1"
+          },
+          {
+            "value": "175",
+            "count": 1,
+            "name": "adiZero Rose 1"
+          },
+          {
+            "value": "322",
+            "count": 1,
+            "name": "adidas originals 服饰"
+          },
+          {
+            "value": "398",
+            "count": 1,
+            "name": "FYW S-97"
+          },
+          {
+            "value": "466",
+            "count": 1,
+            "name": "LXCON Future"
+          },
+          {
+            "value": "483",
+            "count": 1,
+            "name": "ZX 930"
+          },
+          {
+            "value": "489",
+            "count": 1,
+            "name": "Adidas 350"
+          },
+          {
+            "value": "494",
+            "count": 1,
+            "name": "DM"
+          },
+          {
+            "value": "708",
+            "count": 1,
+            "name": "Champion Premium"
+          },
+          {
+            "value": "732",
+            "count": 1,
+            "name": "Questar"
+          },
+          {
+            "value": "755",
+            "count": 1,
+            "name": "Asweerun"
+          },
+          {
+            "value": "795",
+            "count": 1,
+            "name": "adidas Micropacer"
+          },
+          {
+            "value": "797",
+            "count": 1,
+            "name": "Pure Bounce"
+          },
+          {
+            "value": "801",
+            "count": 1,
+            "name": "Tubular Rise"
+          },
+          {
+            "value": "889",
+            "count": 1,
+            "name": "Athletics 247"
+          },
+          {
+            "value": "991",
+            "count": 1,
+            "name": "Terrex Voyager"
+          }
+        ]
+      },
+      {
+        "key": "filter_size_list",
+        "items": [
+          {
+            "value": "40",
+            "count": 3
+          },
+          {
+            "value": "40⅔",
+            "count": 3
+          },
+          {
+            "value": "36⅔",
+            "count": 2
+          },
+          {
+            "value": "36",
+            "count": 1
+          },
+          {
+            "value": "39⅓",
+            "count": 1
+          },
+          {
+            "value": "41⅓",
+            "count": 1
+          },
+          {
+            "value": "42",
+            "count": 1
+          },
+          {
+            "value": "44⅔",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "brand_id",
+        "items": [
+          {
+            "value": "3",
+            "count": 3673,
+            "name": "adidas"
+          }
+        ]
+      },
+      {
+        "key": "category_id",
+        "items": [
+          {
+            "value": "33",
+            "count": 2303,
+            "name": "跑步鞋"
+          },
+          {
+            "value": "31",
+            "count": 546,
+            "name": "篮球鞋"
+          },
+          {
+            "value": "38",
+            "count": 218,
+            "name": "板鞋"
+          },
+          {
+            "value": "7",
+            "count": 141,
+            "name": "夹克"
+          },
+          {
+            "value": "32",
+            "count": 105,
+            "name": "足球鞋"
+          },
+          {
+            "value": "24",
+            "count": 60,
+            "name": "运动裤"
+          },
+          {
+            "value": "46",
+            "count": 49,
+            "name": "拖鞋"
+          },
+          {
+            "value": "6",
+            "count": 43,
+            "name": "卫衣"
+          },
+          {
+            "value": "4",
+            "count": 41,
+            "name": "T恤"
+          },
+          {
+            "value": "12",
+            "count": 37,
+            "name": "羽绒服"
+          },
+          {
+            "value": "36",
+            "count": 32,
+            "name": "老爹鞋"
+          },
+          {
+            "value": "192",
+            "count": 21,
+            "name": "篮球背心"
+          },
+          {
+            "value": "50",
+            "count": 14,
+            "name": "双肩包"
+          },
+          {
+            "value": "9",
+            "count": 14,
+            "name": "棉服"
+          },
+          {
+            "value": "28",
+            "count": 5,
+            "name": "休闲裤"
+          },
+          {
+            "value": "45",
+            "count": 5,
+            "name": "凉鞋"
+          },
+          {
+            "value": "54",
+            "count": 5,
+            "name": "腰包"
+          },
+          {
+            "value": "304",
+            "count": 4,
+            "name": "健身裤"
+          },
+          {
+            "value": "196",
+            "count": 3,
+            "name": "篮球短裤"
+          },
+          {
+            "value": "25",
+            "count": 3,
+            "name": "短裤"
+          },
+          {
+            "value": "97",
+            "count": 3,
+            "name": "棒球帽"
+          },
+          {
+            "value": "272",
+            "count": 2,
+            "name": "马甲"
+          },
+          {
+            "value": "295",
+            "count": 2,
+            "name": "健身衣"
+          },
+          {
+            "value": "305",
+            "count": 2,
+            "name": "单肩包"
+          },
+          {
+            "value": "55",
+            "count": 2,
+            "name": "旅行包"
+          },
+          {
+            "value": "95",
+            "count": 2,
+            "name": "短袜"
+          },
+          {
+            "value": "99",
+            "count": 2,
+            "name": "鸭舌帽"
+          },
+          {
+            "value": "10",
+            "count": 1,
+            "name": "polo衫"
+          },
+          {
+            "value": "16",
+            "count": 1,
+            "name": "背心吊带"
+          },
+          {
+            "value": "183",
+            "count": 1,
+            "name": "拉杆箱"
+          },
+          {
+            "value": "199",
+            "count": 1,
+            "name": "防晒服"
+          },
+          {
+            "value": "306",
+            "count": 1,
+            "name": "护臂"
+          },
+          {
+            "value": "321",
+            "count": 1,
+            "name": "健身手套"
+          },
+          {
+            "value": "44",
+            "count": 1,
+            "name": "马丁靴"
+          },
+          {
+            "value": "51",
+            "count": 1,
+            "name": "斜挎包"
+          },
+          {
+            "value": "52",
+            "count": 1,
+            "name": "手提包"
+          }
+        ]
+      },      {
+        "key": "category_ids",
+        "items": [
+          {
+            "value": "33",
+            "count": 2303,
+            "name": "跑步鞋"
+          },
+          {
+            "value": "31",
+            "count": 546,
+            "name": "篮球鞋"
+          },
+          {
+            "value": "38",
+            "count": 218,
+            "name": "板鞋"
+          },
+          {
+            "value": "7",
+            "count": 141,
+            "name": "夹克"
+          },
+          {
+            "value": "32",
+            "count": 105,
+            "name": "足球鞋"
+          },
+          {
+            "value": "24",
+            "count": 60,
+            "name": "运动裤"
+          },
+          {
+            "value": "46",
+            "count": 49,
+            "name": "拖鞋"
+          },
+          {
+            "value": "6",
+            "count": 43,
+            "name": "卫衣"
+          },
+          {
+            "value": "4",
+            "count": 41,
+            "name": "T恤"
+          },
+          {
+            "value": "12",
+            "count": 37,
+            "name": "羽绒服"
+          },
+          {
+            "value": "36",
+            "count": 32,
+            "name": "老爹鞋"
+          },
+          {
+            "value": "192",
+            "count": 21,
+            "name": "篮球背心"
+          },
+          {
+            "value": "50",
+            "count": 14,
+            "name": "双肩包"
+          },
+          {
+            "value": "9",
+            "count": 14,
+            "name": "棉服"
+          },
+          {
+            "value": "28",
+            "count": 5,
+            "name": "休闲裤"
+          },
+          {
+            "value": "45",
+            "count": 5,
+            "name": "凉鞋"
+          },
+          {
+            "value": "54",
+            "count": 5,
+            "name": "腰包"
+          },
+          {
+            "value": "304",
+            "count": 4,
+            "name": "健身裤"
+          },
+          {
+            "value": "196",
+            "count": 3,
+            "name": "篮球短裤"
+          },
+          {
+            "value": "25",
+            "count": 3,
+            "name": "短裤"
+          },
+          {
+            "value": "97",
+            "count": 3,
+            "name": "棒球帽"
+          },
+          {
+            "value": "272",
+            "count": 2,
+            "name": "马甲"
+          },
+          {
+            "value": "295",
+            "count": 2,
+            "name": "健身衣"
+          },
+          {
+            "value": "305",
+            "count": 2,
+            "name": "单肩包"
+          },
+          {
+            "value": "55",
+            "count": 2,
+            "name": "旅行包"
+          },
+          {
+            "value": "95",
+            "count": 2,
+            "name": "短袜"
+          },
+          {
+            "value": "99",
+            "count": 2,
+            "name": "鸭舌帽"
+          },
+          {
+            "value": "10",
+            "count": 1,
+            "name": "polo衫"
+          },
+          {
+            "value": "16",
+            "count": 1,
+            "name": "背心吊带"
+          },
+          {
+            "value": "183",
+            "count": 1,
+            "name": "拉杆箱"
+          },
+          {
+            "value": "199",
+            "count": 1,
+            "name": "防晒服"
+          },
+          {
+            "value": "306",
+            "count": 1,
+            "name": "护臂"
+          },
+          {
+            "value": "321",
+            "count": 1,
+            "name": "健身手套"
+          },
+          {
+            "value": "44",
+            "count": 1,
+            "name": "马丁靴"
+          },
+          {
+            "value": "51",
+            "count": 1,
+            "name": "斜挎包"
+          },
+          {
+            "value": "52",
+            "count": 1,
+            "name": "手提包"
+          }
+        ]
+      },
+      {
+        "key": "fit_id",
+        "items": [
+          {
+            "value": "1",
+            "count": 1119
+          },
+          {
+            "value": "2",
+            "count": 1796
+          },
+          {
+            "value": "3",
+            "count": 657
+          },
+          {
+            "value": "4",
+            "count": 2
+          },
+          {
+            "value": "5",
+            "count": 30
+          },
+          {
+            "value": "6",
+            "count": 32
+          },
+          {
+            "value": "7",
+            "count": 37
+          }
+        ]
+      }
+    ],
+    "categoryTab": [
+      {
+        "id": 0,
+        "count": 3259,
+        "name": "全部"
+      },
+      {
+        "id": 29,
+        "count": 3259,
+        "name": "鞋"
+      },
+      {
+        "id": 2,
+        "count": 381,
+        "name": "服装"
+      },
+      {
+        "id": 48,
+        "count": 26,
+        "name": "箱包"
+      },
+      {
+        "id": 92,
+        "count": 6,
+        "name": "配件"
+      },
+      {
+        "id": 62,
+        "count": 1,
+        "name": "运动户外"
+      }
+    ],
+    "requestId": "92d74e11b0a48f52",
+    "searchId": "159532341519737245437053",
+    "start": 0,
+    "hits": 20,
+    "total": 3673,
+    "lastId": "20"
+  },
+  "status": 200
+}

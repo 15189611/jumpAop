@@ -1,0 +1,99 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "brandDetailBasicInfo" : {
+      "brandId": 3,
+      "brandLogo": "https://du.hupucdn.com/news_byte24108byte_fc70f4c88211e100fe6c29a6f4a46a96_w150h150.png",
+      "brandName": "adidas",
+      "brandPostCount": 5842,
+      "brandOfSpuCount": 5802,
+      "brandTags": [
+        "专业运动竞技"
+      ],
+      "brandHistory": "adidas（阿迪达斯）创办于1949年，是德国运动用品制造商阿迪达斯AG成员公司。以其创办人阿道夫·达斯勒（Adolf Adi Dassler）命名，在1920年于接近纽伦堡的黑措根奥拉赫开始生产鞋类产品。阿迪达斯三条纹标志是由阿迪达斯的创办人阿道夫·达斯勒设计的，三条纹的阿迪达斯标志代表山区，指出实现挑战、成就未来和不断达成目标的愿望。",
+      "isFavorite": false,
+      "brandShareInfo": {
+        "title": "【得物App】adidas专区",
+        "desc": "汇聚最新最潮商品，开启全新购物体验",
+        "link": "https://m.dewu.com/router/product/BrandDetailPage?brandId=3"
+      }
+    },
+    "advBannerModels" : [
+      {
+        "advId": 144,
+        "image": "https://w1.hoopchina.com.cn/feedback_api/68/71/c5/6871c5ed2737be7c31d96557ae37c97c001.jpg",
+        "cn":"渠道",
+        "text" : "黄金位1",
+        "redirect" : "redirect1"
+      },
+      {
+        "advId": 145,
+        "image": "https://w2.hoopchina.com.cn/feedback_api/63/88/74/6388740d3a9ca27b588786cce69194ab001.jpg",
+        "cn":"渠道",
+        "text" : "黄金位1",
+        "redirect" : "redirect2"
+      },
+      {
+        "advId": 146,
+        "image": "https://w4.hoopchina.com.cn/feedback_api/87/52/ef/8752ef895f977d7fbb296d74905dd3d8001.jpg",
+        "cn":"渠道",
+        "text" : "黄金位1",
+        "redirect" : "redirect3"
+      }
+    ],
+    "advGoldModels" : [
+      {
+        "advId": 144,
+        "image": "https://w1.hoopchina.com.cn/feedback_api/68/71/c5/6871c5ed2737be7c31d96557ae37c97c001.jpg",
+        "cn":"黄金位1",
+        "text" : "黄金位1",
+        "redirect" : "redirect4"
+      },
+      {
+        "advId": 145,
+        "image": "https://w2.hoopchina.com.cn/feedback_api/63/88/74/6388740d3a9ca27b588786cce69194ab001.jpg",
+        "cn":"黄金位2",
+        "text" : "黄金位1",
+        "redirect" : "redirect5"
+      },
+      {
+        "advId": 146,
+        "image": "https://w4.hoopchina.com.cn/feedback_api/87/52/ef/8752ef895f977d7fbb296d74905dd3d8001.jpg",
+        "cn":"黄金位3",
+        "text" : "黄金位1",
+        "redirect" : "redirect6"
+      },
+      {
+        "advId": 147,
+        "image": "https://w4.hoopchina.com.cn/feedback_api/87/52/ef/8752ef895f977d7fbb296d74905dd3d8001.jpg",
+        "cn":"黄金位4",
+        "text" : "黄金位1",
+        "redirect" : "redirect7"
+      },
+      {
+        "advId": 148,
+        "image": "https://w4.hoopchina.com.cn/feedback_api/87/52/ef/8752ef895f977d7fbb296d74905dd3d8001.jpg",
+        "cn":"黄金位5",
+        "text" : "黄金位1",
+        "redirect" : "redirect8"
+      },
+      {
+        "advId": 150,
+        "image": "https://w4.hoopchina.com.cn/feedback_api/87/52/ef/8752ef895f977d7fbb296d74905dd3d8001.jpg",
+        "cn":"黄金位9",
+        "text" : "黄金位1",
+        "redirect" : "redirect9"
+      }
+    ],
+    "brandAccountInfo": {
+      "userId": 8,
+      "userName": "苦闷驭帅eWt",
+      "icon": "https://du.hupucdn.com/8_byte550098byte_36DDEA8568EA100073C4BAD0B009D035_iOS_w1656h1656.png",
+      "authInfo": "迭代",
+      "contentNum": 25,
+      "contentSwitchStatus": 0
+    }
+  },
+  "status": 200
+}
